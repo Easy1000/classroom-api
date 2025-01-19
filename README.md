@@ -129,3 +129,9 @@ curl http://localhost:8080/students
 You can find the complete API documentation here:
 
 👉 [Published API Documentation on Postman](https://documenter.getpostman.com/view/22323395/2sAYQanrab)
+
+## GPT Powered
+
+This task is completed with the help of chatgpt
+
+👉 [Chat With ChatGPT](https://chatgpt.com/share/678d4b34-22cc-8012-bbf8-5eca6ca0ec01)
